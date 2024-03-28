@@ -25,7 +25,7 @@
 
 ## About The Project
 
-![Screen Shot](https://www.pinterest.com/pin/207728601557283910)
+![1](https://github.com/MahmooudSamy/Mainwindow/assets/165038050/1b035929-e74b-476e-85b7-281a1cb3f532)
 
 This is main window style you can use it for any industry of your project, you can rename the buttons in side menu and reuse it depends on your domain. Enjoy ! :smile:
 
