@@ -25,7 +25,7 @@
 
 ## About The Project
 
-![Screen Shot](Imges/1.png)
+![Screen Shot](https://www.pinterest.com/pin/207728601557283910)
 
 This is main window style you can use it for any industry of your project, you can rename the buttons in side menu and reuse it depends on your domain. Enjoy ! :smile:
 
